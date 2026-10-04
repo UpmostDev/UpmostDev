@@ -1,6 +1,13 @@
 # 💫 About Me:
 I'm Jordyn Richmond, a Computer Science student at Florida International University graduating in December 2026 and an incoming M.S. in Computer Science (OMSCS) student at Georgia Tech. I currently work as an IT Team Lead, with hands-on experience in cybersecurity, cloud infrastructure, identity and access management, Microsoft Entra ID, Microsoft 365, and enterprise systems. My development experience includes Python, Java, C, JavaScript, SQL, React, and Swift. 
 
+Currently:
+🎓 Finishing my B.A. in Computer Science at FIU
+🐝 Incoming Georgia Tech OMSCS student — Spring 2027
+🔐 Exploring cybersecurity & cloud security
+💻 Building software, automation, and systems projects
+🚀 Always looking for the next technical challenge
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jordyn-richmond28) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jordynrichmond@gmail.com) 
